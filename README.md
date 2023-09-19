@@ -1,6 +1,6 @@
 ---
-title: Chef Transformer
-emoji: 🍲
+title: Chefs Recipes
+emoji: 🥗🍜
 colorFrom: blue
 colorTo: red
 sdk: streamlit
@@ -9,18 +9,14 @@ app_file: app.py
 pinned: false
 ---
 
-# Chef Transformer (T5) 
+# Chefs Recipes (GC) is an open-source project of the following source code:
 > This is part of the [Flax/Jax Community Week](https://discuss.huggingface.co/t/recipe-generation-model/7475), organized by [HuggingFace](https://huggingface.co/) and TPU usage sponsored by Google.
 
 Want to give it a try? Then what's the wait, head over to the demo [here](https://share.streamlit.io/chef-transformer/chef-transformer/main/app.py).
 
 
 ## Team Members
-- Mehrdad Farahani ([m3hrdadfi](https://huggingface.co/m3hrdadfi))
-- Kartik Godawat ([dk-crazydiv](https://huggingface.co/dk-crazydiv))
-- Haswanth Aekula ([hassiahk](https://huggingface.co/hassiahk))
-- Deepak Pandian ([rays2pix](https://huggingface.co/rays2pix))
-- Nicholas Broad ([nbroad](https://huggingface.co/nbroad))
+- Klm GreenChee (https://github.com/klmII)
 
 ## Dataset
 
